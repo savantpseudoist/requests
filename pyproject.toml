@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "requests"
+name = "requests_clone_by_glitch"
 description = "Python HTTP for Humans."
 readme = "README.md"
 license = {text = "Apache-2.0"}
